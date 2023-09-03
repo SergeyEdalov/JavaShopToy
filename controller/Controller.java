@@ -32,6 +32,6 @@ public class Controller {
             prizeToyList.add(box.selectPrizeToy(toyList));
         }
         textFile.inputDataToFile("D:\\Study_programmist\\Контрольные работы\\Промежуточная " +
-                "контрольная работа\\Магазин игрушек Java\\src\\main\\java", prizeToyList);
+                "контрольная работа\\Магазин игрушек Java\\src\\main", prizeToyList);
     }
 }
